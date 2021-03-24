@@ -1,0 +1,25 @@
+.sign-in {
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+align-self: center;
+align-items: center;
+margin-left:400px;
+  .title {
+    margin: 10px 0;
+  }
+
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    color: green;
+  }
+  .button {
+    display: flex;
+    justify-content: space-between;
+    color:white; 
+display: flex; 
+align-items: center; 
+    
+  }
+}

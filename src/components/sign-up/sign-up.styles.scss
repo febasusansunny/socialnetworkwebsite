@@ -1,0 +1,17 @@
+.sign-up {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+  margin-left:500px;
+  .title {
+    margin: 10px 0;
+  }
+  .button {
+    display: flex;
+    justify-content: space-between;
+    color:white; 
+display: flex; 
+align-items: center; 
+    
+  }
+}
